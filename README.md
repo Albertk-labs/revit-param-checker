@@ -5,7 +5,7 @@ It helps identify model elements that are missing critical parameter values, whi
 
 ---
 
-## 🔍 Features
+## Features
 
 - Takes a list of elements and checks if specified parameters are empty.
 - Highlights elements in the Revit model for easy identification.
@@ -13,7 +13,7 @@ It helps identify model elements that are missing critical parameter values, whi
 
 ---
 
-## 💻 How It Works
+## How It Works
 
 1. Input:
    - IN[0]: List of Revit elements to check
